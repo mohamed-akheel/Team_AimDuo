@@ -4,3 +4,4 @@ This project is based on enabling farmers to have exact control over the dischar
 The folder "Final Codes - Team AimDuo" has all the coding files in JAVA done in Android studio software for the app development.
 The Simulation, Rendered Imgae, Working mecahnism files are there which are developed using the siftware SolidWorks.
 The presentation file could be found as "Presentation - Team AimDuo".
+The application in apk format is found as "Team AimDuo - Agro Irrigo.apk"
